@@ -1,0 +1,21 @@
+html{
+	background-image: url("art.gif");
+}
+h1{
+	color: #ecb3ff;
+	font-family: verdana;
+	font-size: 40px;
+}
+p{
+	color: #13001a;
+	font-family: Lucida Sans Unicode;
+	font-size: 25px;
+}
+#pics {
+	width: 250px;
+	height: 200px;
+}
+button{
+	color: blue;
+	background-color: yellow;
+}

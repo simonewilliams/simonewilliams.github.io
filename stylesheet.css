@@ -1,0 +1,51 @@
+img {
+	width: 100px;
+	height:100px;
+}
+h1, p{
+	color: purple;
+	font-family: verdana;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-size: 50px;
+}
+h2, h3 {
+    color: white;
+}
+ul{
+	font-size: 30px;
+}
+html{
+	background-image:url("trains.gif");
+}
+#python {
+	float: left;
+	width: 300px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+    color:purple;
+    background-image: url("colors.gif");
+    font-family:Tahoma;
+}
+#scratch{
+	width: 300px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+    float: right;
+    color: purple;
+    background-image: url("colors.gif");
+    font-family: Tahoma;
+}
+/*a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}*/
+a:hover {
+    color:#8000ff;
+}

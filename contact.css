@@ -1,0 +1,25 @@
+img{
+	width: 200px;
+	height: 250px;
+	padding-bottom: 50px;
+}
+html{
+	background-image: url("back.jpg");
+}
+button{
+	color: blue;
+	background-color: yellow;
+}
+a:hover {
+    color:#8000ff;
+}
+p{
+	color: yellow;
+}
+
+a:link {
+    color: red;
+}
+a:hover {
+	color:#2E8B57;
+}
